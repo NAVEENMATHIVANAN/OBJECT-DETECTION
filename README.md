@@ -1,14 +1,14 @@
-# OBJECT-DETECTION
+# OBJECT-DETECTION :
 
-# Aim
+# Aim :
 To write a python program using OpenCV to detect the image from the web camera
 
-# Steps
+# Steps :
 1. open jupyter lab
 2. upload the required yolo files in a folder
 3. run the code
 4. detect the object from the webcam
-# Code
+# Code :
 ```
 import cv2
 import numpy as np
@@ -87,7 +87,7 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
-# output
+# output :
 
 ![output_img](https://github.com/user-attachments/assets/fe47051c-af7f-47e2-ae42-fcb1aa1bd8ba)
 
